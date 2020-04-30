@@ -13,6 +13,6 @@ $> make
 $> ./fillit test1
 ```
 
-##Pictures
+##Picture
 
 ![](png/fillit%20img.png)
